@@ -1,0 +1,20 @@
+:root{
+    --light-blue:#00b7ff;
+    --light-grey:#6c757d;
+}
+#primarybtn{
+    width: 110px;
+    padding: 2px;
+    background-color: var(--light-blue);
+    color: white;
+    text-align: center;
+    border: 2px solid var(--light-blue);
+}
+#secondarybtn{
+    width: 120px;
+    padding: 2px;
+    background-color: var(--light-grey);
+    color: white;
+    text-align: center;
+    border: 2px solid var(--light-grey);
+}
